@@ -106,7 +106,7 @@
 2) Выполните:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/zazdravie/3xui-shopbot/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/7VB-STORE/web-panel/main/install.sh | sudo bash
 ```
 
 3) Следуйте инструкциям установщика:
