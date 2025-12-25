@@ -22,7 +22,7 @@ read_input_yn() {
 }
 
 REPO_URL="https://github.com/7VB-STORE/web-panel.git"
-PROJECT_DIR="3xui-shopbot"
+PROJECT_DIR="shopbot"
 NGINX_CONF_FILE="/etc/nginx/sites-available/${PROJECT_DIR}.conf"
 
 echo -e "${GREEN}--- Запуск скрипта установки/обновления 3xui-ShopBot ---${NC}"
